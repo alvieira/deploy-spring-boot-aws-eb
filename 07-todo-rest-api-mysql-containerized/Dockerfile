@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:11.0.6-jre-buster
 VOLUME /tmp
 EXPOSE 5000
 ADD target/*.jar app.jar
