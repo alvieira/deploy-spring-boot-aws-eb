@@ -32,13 +32,13 @@
       ]
     },
     {
-      "name": "todo-rest-api",
+      "name": "todos-api",
       "image": "alvieira/todo-rest-api-mysql:1.0.0.RELEASE",
       "essential": true,
       "memory": 256,
       "portMappings": [
         {
-          "hostPort": 5000,
+          "hostPort": 80,
           "containerPort": 5000
         }
       ],
