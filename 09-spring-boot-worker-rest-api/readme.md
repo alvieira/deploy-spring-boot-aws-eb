@@ -5,7 +5,7 @@ Run com.in28minutes.rest.webservices.restfulwebservices.RestfulWebServicesApplic
 
 # Task Resource
 
-Send following POST request to http://localhost:8080
+Send following POST request to http://localhost:5000
 
 ```
 {
