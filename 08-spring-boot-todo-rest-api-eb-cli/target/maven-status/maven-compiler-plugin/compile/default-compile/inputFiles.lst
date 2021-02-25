@@ -1,0 +1,6 @@
+/media/aloisio/6b92052b-04bd-4642-8d61-4e9431892637/aloisio/workspaces/deploy-spring-boot-aws-eb/08-spring-boot-todo-rest-api-eb-cli/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java
+/media/aloisio/6b92052b-04bd-4642-8d61-4e9431892637/aloisio/workspaces/deploy-spring-boot-aws-eb/08-spring-boot-todo-rest-api-eb-cli/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java
+/media/aloisio/6b92052b-04bd-4642-8d61-4e9431892637/aloisio/workspaces/deploy-spring-boot-aws-eb/08-spring-boot-todo-rest-api-eb-cli/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaRepository.java
+/media/aloisio/6b92052b-04bd-4642-8d61-4e9431892637/aloisio/workspaces/deploy-spring-boot-aws-eb/08-spring-boot-todo-rest-api-eb-cli/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java
+/media/aloisio/6b92052b-04bd-4642-8d61-4e9431892637/aloisio/workspaces/deploy-spring-boot-aws-eb/08-spring-boot-todo-rest-api-eb-cli/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java
+/media/aloisio/6b92052b-04bd-4642-8d61-4e9431892637/aloisio/workspaces/deploy-spring-boot-aws-eb/08-spring-boot-todo-rest-api-eb-cli/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaResource.java
